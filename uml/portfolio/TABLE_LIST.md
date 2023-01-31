@@ -1,10 +1,11 @@
 TABLE LIST :
 
     1) Pages
-    2) Profil
-    3) Coordonnées
+    2) Profile
+    3) Contact
     4) Skills
-    5) Expériences
-    6) Formation
+    5) Experiences
+    6) Education
     7) Illustrations
+    8) Projects
     
